@@ -1,4 +1,3 @@
-import tensorflow as tf
 import gradio as gr
 from transformers import TFGPT2LMHeadModel, GPT2Tokenizer
 
