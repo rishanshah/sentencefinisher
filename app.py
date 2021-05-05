@@ -1,4 +1,5 @@
 import gradio as gr
+import tensorflow
 from transformers import TFGPT2LMHeadModel, GPT2Tokenizer
 
 # Loading and setting up GPT2 Open AI Transformer Model
